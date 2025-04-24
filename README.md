@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/viktorgrant/ticket-lifecycle)
 
   -<b> Python Tutorial (Beginner How-To Guide)</b>
-  - [Python: How to make Tic-Tac-Toe Game in Python](https://github.com/viktorgrant/osticket-prereqs)
+  - [Python: How to make Tic-Tac-Toe Game in Python](https://github.com/viktorgrant/Tic-Tac-Toe-Tutorial)
 
 
 - <b>Microsoft Azure</b>
