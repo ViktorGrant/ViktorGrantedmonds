@@ -1,4 +1,4 @@
-<h1>Hi, I'm viktor, an <a href="https://linkedin.com/in/Viktor-Grant">IT Professional</a>☺</h1>
+<h1>Hi, I'm viktor, an <a href="https://linkedin.com/in/viktor-grant-7146712a4">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
