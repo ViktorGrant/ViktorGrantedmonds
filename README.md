@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/viktorgrant/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/viktorgrant/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/viktorgrant/ticket-lifecycle)
+  - [COMING SOON -> osTicket: Ticket Lifecycle Examples](https://github.com/viktorgrant/ticket-lifecycle)
 
  - <b>Coding Tutorials </b>
   - [Python: How to make Tic-Tac-Toe Game in Python](https://github.com/viktorgrant/Tic-Tac-Toe-Tutorial)
