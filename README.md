@@ -10,6 +10,9 @@
  - <b>Coding Tutorials </b>
   - [Python: How to make Tic-Tac-Toe Game in Python](https://github.com/viktorgrant/Tic-Tac-Toe-Tutorial)
 
+-<b>Microsoft 365</b>
+  - [365 Excel beginner budget](https://github.com/ViktorGrant/Microsoft-365-Excel-Tutorial-Building-a-Simple-Budget/blob/main/README.md)
+
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
