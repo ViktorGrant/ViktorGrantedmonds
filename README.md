@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>  
   - [osTicket: Prerequisites and Installation](https://github.com/viktorgrant/osticket-prereqs)  
-  - [osTicket: Post-Installation Configuration](https://github.com/viktorgrant/post-install-config)  
+  - [osTicket: Post-Installation Configuration](https://github.com/ViktorGrant/osTicket-Congfiguration)  
   - <i>Coming Soon:</i> [osTicket: Ticket Lifecycle Examples](https://github.com/viktorgrant/ticket-lifecycle)
 
 - <b>Microsoft 365</b>  
