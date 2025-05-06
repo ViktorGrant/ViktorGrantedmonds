@@ -8,7 +8,7 @@
   - <i>Coming Soon:</i> [osTicket: Ticket Lifecycle Examples](https://github.com/viktorgrant/ticket-lifecycle)
 
 - <b>Microsoft 365</b>  
-  - [Beginner Excel Budget](https://github.com/ViktorGrant/Microsoft-365-Excel-Tutorial-Building-a-Simple-Budget/blob/main/README.md)
+  - [Excel Tutorial: Begineers Budget ](https://github.com/ViktorGrant/Microsoft-365-Excel-Tutorial-Building-a-Simple-Budget/blob/main/README.md)
 
 - <b>Microsoft Azure</b>  
   - <i>Coming Soon:</i> [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)  
